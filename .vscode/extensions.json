@@ -1,10 +1,5 @@
 {
     "recommendations": [
-        "ms-python.python",
-        "redhat.ansible",
-        "redhat.vscode-openshift-connector",
-        "ms-python.black-formatter",
-        "gitlab.gitlab-workflow",
         "jeanp413.open-remote-ssh"
     ]
 }
